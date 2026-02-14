@@ -4,3 +4,4 @@ ridgeplot
 seaborn
 shinywidgets
 altair
+palmerpenguins
