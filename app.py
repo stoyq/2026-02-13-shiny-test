@@ -9,7 +9,7 @@ tips = sns.load_dataset("tips")
 # UI
 app_ui = ui.page_fluid(
     ui.tags.style("body { font-size: 0.6em; }"),
-    ui.panel_title("Restaurant tipping"),
+    ui.panel_title("Restaurant tipping TEST!!!"),
     ui.layout_sidebar(
         ui.sidebar(
             ui.input_slider(
