@@ -3,3 +3,4 @@ plotly
 ridgeplot
 seaborn
 shinywidgets
+altair
